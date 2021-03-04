@@ -1,2 +1,2 @@
-# Python-Projects
+# Hangman Project
 Python Bootcamp Journey.
